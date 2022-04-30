@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039121145782",
+    "firebase_url": "https://societyapp-fb2f7.firebaseio.com",
+    "project_id": "societyapp-fb2f7",
+    "storage_bucket": "societyapp-fb2f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039121145782:android:438a24c1b2f8d4868b2b17",
+        "android_client_info": {
+          "package_name": "com.example.societyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039121145782-q2cd08et3kh040e82q8cb3ihs456i2pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC848a4ukIJnmkuqePIRKbjnx2fZFOVNjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039121145782-q2cd08et3kh040e82q8cb3ihs456i2pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
